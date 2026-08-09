@@ -4,7 +4,7 @@ A PostgreSQL SQL project focused on analyzing hospital data and answering real-w
 
 The project uses SQL to analyze patient volumes, doctors, hospital departments, medical expenses, patient length of stay, city-wise patient distribution, and monthly healthcare expenses.
 
----
+--
 
 ## 📌 Project Overview
 
