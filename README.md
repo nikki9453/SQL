@@ -312,31 +312,6 @@ LIMIT 1;
 * **Git**
 * **GitHub**
 
----
-
-## 📁 Project Structure
-
-```text
-hospital-data-analysis-sql/
-│
-├── README.md
-│
-├── sql/
-│   └── hospital_analysis.sql
-│
-├── data/
-│   └── hospital_data.csv
-│
-├── screenshots/
-│   ├── database_table.png
-│   ├── query_results.png
-│   └── monthly_expenses.png
-│
-└── LICENSE
-```
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. Install PostgreSQL
@@ -369,22 +344,6 @@ sql/hospital_analysis.sql
 
 Execute the queries in PostgreSQL.
 
----
-
-## 📈 Key Findings
-
-The analysis produced several useful observations:
-
-* The dataset contains **9,347 total patients**.
-* **Urology** recorded the highest number of patients.
-* **Cardiology** had the lowest total patient count.
-* **Jaipur** had the highest number of patients among the analyzed cities.
-* The longest recorded hospital stay was **15 days**.
-* **September** recorded the highest monthly medical expenses.
-* **Healing Touch** recorded the highest maximum medical expense in the analysis.
-* **Neurology** had the highest average length of stay among the departments.
-
----
 
 ## 🎓 Skills Demonstrated
 
